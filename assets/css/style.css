@@ -14,6 +14,7 @@ h4 {
 
 p{
   font-size: 1.8em;
+  text-align: center;
 }
 
 h1, h4, i, p {
@@ -91,7 +92,6 @@ video {
 
   p {
     font-size: 3vh;
-    text-align: center;
   }
 
   i {
